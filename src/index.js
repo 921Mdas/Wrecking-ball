@@ -1,7 +1,7 @@
 import "./style.css";
 import ReactDOM from "react-dom/client";
 import { Canvas } from "@react-three/fiber";
-import Experience from "./Experience.js";
+import Experience from "./components/MainScene.jsx";
 import { KeyboardControls } from "@react-three/drei";
 import React, { useMemo } from "react";
 
